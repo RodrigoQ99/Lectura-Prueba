@@ -7,18 +7,18 @@ const TIEMPO_LECTURA = 60;
 
 
 // Tiempo de espera antes de comenzar a mover el texto
-const ESPERA_INICIAL = 5;
+const ESPERA_INICIAL = 3;
 
 
 // Control de velocidad de lectura
 // 1 = velocidad normal
 // 0.5 = más lento
 // 2 = más rápido
-const VELOCIDAD_LECTURA = 0.5;
+const VELOCIDAD_LECTURA = 0.75;
 
 
 // Tiempo del cuestionario en segundos
-const TIEMPO_CUESTIONARIO = 60;
+const TIEMPO_CUESTIONARIO = 30;
 
 
 
