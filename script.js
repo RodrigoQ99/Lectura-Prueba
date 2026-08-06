@@ -14,7 +14,7 @@ const ESPERA_INICIAL = 3;
 // 1 = velocidad normal
 // 0.5 = más lento
 // 2 = más rápido
-const VELOCIDAD_LECTURA = 0.75;
+const VELOCIDAD_LECTURA = 0.85;
 
 
 // Tiempo del cuestionario en segundos
